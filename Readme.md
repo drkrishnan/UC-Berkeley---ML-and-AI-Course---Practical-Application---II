@@ -1,5 +1,3 @@
-Got it 👍 — below is a **GitHub-ready `README.md` file**, formatted with Markdown spacing, headings, and tables that will **render cleanly and aligned** when you copy-paste directly into your repository (no broken indentation or layout).
-
 ---
 
 ```markdown
