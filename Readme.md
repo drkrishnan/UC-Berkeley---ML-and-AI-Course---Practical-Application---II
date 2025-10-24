@@ -1,5 +1,3 @@
----
-
 ```markdown
 # 🚗 Used Car Price Modeling — CRISP-DM Data Science Project
 
